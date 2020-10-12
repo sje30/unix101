@@ -51,7 +51,10 @@ head, tail, cat, grep, wc
 # accessing a remote machine
 
 
+
 ssh
+
+passwd
 
 sftp
 
@@ -60,6 +63,8 @@ filezilla client https://filezilla-project.org/
 top
 uptime
 nice
+
+slowjob.sh
 
 # next steps
 
